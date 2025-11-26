@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+  "name": "reverig-tool",
+  "common_name": "Reverig tool",
+  "description": "Reverig tool Steam Plugin!",
+  "version": "5.7.5",
+  "include": [
+    "public"
+  ]
+}
